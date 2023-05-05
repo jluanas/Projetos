@@ -18,6 +18,7 @@ body {
   justify-content: center;
   align-items: center;
   height: 90vh;
+  
 }
 
 .content {
@@ -26,7 +27,7 @@ body {
     align-items: center;
     flex-wrap: wrap;
     width: 70vw;
-
+    padding: 2rem 4rem;
 
 }
 
@@ -137,12 +138,8 @@ h3 {
 
 
 
-@media (max-width: 320px) 
 
-{ body { width: 60%; } 
-
-}
-
+ 
 
 
 
