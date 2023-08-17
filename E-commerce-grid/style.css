@@ -117,6 +117,8 @@ img{
     grid-column: footer;
     color: #ccc;
     text-align: center;
+    padding: 20px;
+    font-size: 20px;
 }
 
 
